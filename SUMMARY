@@ -1,0 +1,1 @@
+小布建议双栏自定义：把 OPPO/一加「小布建议」小组件的左右两栏分别换成任意卡片（原生卡/快应用卡），并支持两栏对调。入口复用系统「编辑默认样式」界面，不新增 UI。仅注入 com.oplus.pantanal.ums；已在 OnePlus PLG110 / ColorOS 17.0.0.105 / Android 17 / LSPosed 2.1.1 验证。
