@@ -10,7 +10,7 @@
 
 | 项 | 要求 |
 |---|---|
-| 系统 | ColorOS 17 / Android 17（已在 `PLG110_17.0.0.105(CN01)` 验证） |
+| 系统 | ColorOS 17 / Android 17（已在 `PLG110_17.0.1.201(CN01)` 验证） |
 | 框架 | LSPosed 2.1.1+ |
 | 注入进程 | 仅 `com.oplus.pantanal.ums`（决策引擎），不注入桌面 |
 
